@@ -1,10 +1,16 @@
 # TouchDesigner_PostEffects
 ## Bloom
 ![simple](./Bloom/images/simple.jpg "simple")
-![emissionMap](./Bloom//images/emissionMap.jpg "emissionMap")
+![emissionMap](./Bloom/images/emissionMap.jpg "emissionMap")
+
+## Camera Motion Blur
+![cameraMotionBlur](./CameraMotionBlur/images/cameraMotionBlur.jpg "cameraMotionBlur")
 
 ## Depth of Field
 ![DoF](./DoF/images/DoF.jpg "DoF")
+
+## Lens Effects
+![lensEffects](./LensEffects/images/lensEffects.jpg "lensEffects")
 
 ## Screen Space Ambient Occlusion
 ![HBAO_Classic](./SSAO/images/HBAO_Classic.jpg "HBAO_Classic")
