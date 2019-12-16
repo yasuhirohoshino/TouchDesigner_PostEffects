@@ -1,7 +1,7 @@
 # TouchDesigner_PostEffects
 ![main](./docs/images/mainImage.jpg "main")
 
-[document(Jaapanese)](./docs/td_posteffects.md)  
+[document(Japanese)](./docs/td-posteffects.md)  
 
 ## Bloom
 ![simple](./Bloom/images/simple.jpg "simple")
