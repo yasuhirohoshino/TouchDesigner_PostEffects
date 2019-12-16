@@ -13,7 +13,7 @@ TouchDesigner用のPostEffectとして、以下のtox群を作成しました。
 以下のGithubリポジトリよりダウンロードできます。  
 [https://github.com/yasuhirohoshino/TouchDesigner_PostEffects](https://github.com/yasuhirohoshino/TouchDesigner_PostEffects)  
 今後機能追加がある場合は、上記のリポジトリ上で公開していく予定です。  
-TouchDesignerのバージョンは本記事作成時(YYYY/MM/DD)において最新である、`TouchDesigner Experimental Build 2019.33840`に対応しています。  
+TouchDesignerのバージョンは本記事作成時において最新である、`TouchDesigner Experimental Build 2019.33840`に対応しています。  
 `Windows 10 Version 1903`でのみ開発・検証を行っています。
 
 ## Bloom
@@ -163,11 +163,11 @@ TouchDesignerのバージョンは本記事作成時(YYYY/MM/DD)において最�
 
 ## 参考
 ### Bloom
-Knee Curve と Soft Knee
+Knee Curve と Soft Knee  
 http://light11.hatenadiary.com/entry/2018/02/15/011155
 
 ### Camera Motion Blur
-Motion Blur Tutorial
+Motion Blur Tutorial  
 http://john-chapman-graphics.blogspot.com/2013/01/what-is-motion-blur-motion-pictures-are.html
 
 ### Depth of Field
@@ -177,9 +177,9 @@ OpenGL Insights P179 - 189
 ディジタル画像処理 P21 -22
 
 ### Screen Space Ambient Occulusion
-NVIDIA HBAO+ 2.4.
+NVIDIA HBAO+ 2.4.  
 https://docs.nvidia.com/gameworks/content/gameworkslibrary/visualfx/hbao/product.html
 
 ### Screen Space Reflection
-スクリーンスペース・リフレクション（SSR）
+スクリーンスペース・リフレクション（SSR）  
 https://qiita.com/mebiusbox2/items/e69ef326b211880d7549
