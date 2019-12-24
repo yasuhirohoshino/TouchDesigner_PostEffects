@@ -96,6 +96,7 @@ TouchDesignerのバージョンは本記事作成時において最新である�
 |Red|Float|赤色のレンズ歪み|
 |Green|Float|緑色のレンズ歪み|
 |Blue|Float|青色のレンズ歪み|
+|Scale|Float|画像全体のスケール|
 |Vignette Enabled|Bool|周辺減光エフェクトを適用するかどうか|
 |Exponent|Float|周辺減光エフェクトのかかり具合の指数|
 
