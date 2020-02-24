@@ -13,8 +13,8 @@ TouchDesigner用のPostEffectとして、以下のtox群を作成しました。
 以下のGithubリポジトリよりダウンロードできます。  
 [https://github.com/yasuhirohoshino/TouchDesigner_PostEffects](https://github.com/yasuhirohoshino/TouchDesigner_PostEffects)  
 今後機能追加がある場合は、上記のリポジトリ上で公開していく予定です。  
-TouchDesignerのバージョンは本記事作成時において最新である、`TouchDesigner Experimental Build 2019.33840`に対応しています。  
-`Windows 10 Version 1903`でのみ開発・検証を行っています。
+TouchDesignerのバージョンは本記事作成時において最新である、`TouchDesigner 2020.20020`に対応しています。  
+`Windows 10 Version 1909`でのみ開発・検証を行っています。
 
 ## Bloom
 
@@ -51,7 +51,8 @@ TouchDesignerのバージョンは本記事作成時において最新である�
 ### Parameters
 |Parameter|Type|Description|
 |:---|:---|:---|
-|Camera|COMP|Source画像レンダリング時のCamera COMP|
+|Camera|COMP|`in 0` のレンダリング時のCamera COMP|
+|Render|TOP|`in 0` のレンダリング時のRender TOP|
 |Blur Samples|Int|Blur適用時のピクセルのサンプリング回数|
 |Blur Scale|Float|Blurのスケール|
 
