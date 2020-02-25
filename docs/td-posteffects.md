@@ -90,6 +90,7 @@ TouchDesignerのバージョンは本記事作成時において最新である�
 |Number|Necessity|Type|Name|Description|
 |:---|:---|:---|:---|:---|
 |0|Required|TOP|Source|エフェクトを適用する画像|
+|1|Optional|TOP|Lens Dirt|レンズ汚れの画像|
 
 ### Parameters
 |Parameter|Type|Description|
@@ -100,6 +101,9 @@ TouchDesignerのバージョンは本記事作成時において最新である�
 |Scale|Float|画像全体のスケール|
 |Vignette Enabled|Bool|周辺減光エフェクトを適用するかどうか|
 |Exponent|Float|周辺減光エフェクトのかかり具合の指数|
+|Blur Enabled|Bool|周辺にブラーを適用するかどうか|
+|Blur Mix Exponent|Float|ブラーのかかり具合の指数|
+|Lens Dirt Alpha|Float|レンズ汚れの強さ|
 
 ## Screen Space Ambient Occulusion
 
