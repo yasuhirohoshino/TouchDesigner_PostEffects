@@ -1,3 +1,2 @@
 # Bloom
-![simple](./images/simple.jpg "simple")
-![emissionMap](./images/emissionMap.jpg "emissionMap")
+![simple](./images/bloom.jpg "simple")

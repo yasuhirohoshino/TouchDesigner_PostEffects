@@ -1,25 +1,19 @@
 # TouchDesigner_PostEffects
-![main](./docs/images/mainImage.jpg "main")
-
-[document(Japanese)](./docs/td-posteffects.md)  
 
 ## Bloom
-![simple](./Bloom/images/simple.jpg "simple")
-![emissionMap](./Bloom/images/emissionMap.jpg "emissionMap")
+![simple](./Bloom/images/bloom.jpg "simple")
 
 ## Camera Motion Blur
-![cameraMotionBlur](./CameraMotionBlur/images/cameraMotionBlur.jpg "cameraMotionBlur")
-
-## Depth of Field
-![DoF](./DoF/images/DoF.jpg "DoF")
+![cameraMotionBlur](./CameraMotionBlur/images/cameramotionblur.jpg "cameraMotionBlur")
 
 ## Lens Effects
 ![lensEffects](./LensEffects/images/lensEffects.jpg "lensEffects")
 
+## Simple Depth of Field
+![simpleDoF](./SimpleDoF/images/simpleDoF.jpg "simpleDoF")
+
 ## Screen Space Ambient Occlusion
-![HBAO_Classic](./SSAO/images/HBAO_Classic.jpg "HBAO_Classic")
+![ssao](./SSAO/images/ssao.jpg "ssao")
 
 ## Screen Space Reflection
-![simple](./SSR/images/simple.jpg "simple")
-![normalMap](./SSR/images/normalMap.jpg "normalMap")
-![PBR](./SSR/images/PBR.jpg "PBR")
+![ssr](./SSR/images/ssr.jpg "ssr")
