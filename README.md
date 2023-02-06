@@ -4,7 +4,7 @@
 ![simple](./Bloom/images/bloom.jpg "simple")
 
 ## Camera Motion Blur
-![cameraMotionBlur](./CameraMotionBlur/images/cameraMotionblur.jpg "cameraMotionBlur")
+![cameraMotionBlur](./CameraMotionBlur/images/cameraMotionBlur.jpg "cameraMotionBlur")
 
 ## Lens Effects
 ![lensEffects](./LensEffects/images/lensEffects.jpg "lensEffects")
